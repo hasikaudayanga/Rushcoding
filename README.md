@@ -1,0 +1,2 @@
+# Rushcoding
+My Rushcoding website
